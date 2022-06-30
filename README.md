@@ -1,3 +1,7 @@
+# Backend
+
+This projecct is a backend for react-crud project repository 
+
 # DB 
 
 docker-compose up -d
